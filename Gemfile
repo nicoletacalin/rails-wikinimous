@@ -21,6 +21,11 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+gem 'faker'
+gem 'ace-rails-ap'
+gem 'bootstrap_form'
+gem 'kramdown'
+gem 'bootstrap-sass', '~> 3.3.0'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
